@@ -1,0 +1,8 @@
+flask
+flask_cors
+rdkit
+openbabel
+geoip2
+python-dotenv
+pillow
+numpy

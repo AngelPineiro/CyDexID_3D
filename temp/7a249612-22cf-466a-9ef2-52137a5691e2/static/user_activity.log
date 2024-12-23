@@ -1,0 +1,33 @@
+
+# ====================================
+#  Nueva Actividad de Usuario
+# ====================================
+
+Fecha y Hora: 2024-12-23T12:46:10.232771
+
+Información del Usuario:
+    IP: 127.0.0.1
+    
+    Ubicación:
+        País: Local
+        Ciudad: Local
+        Coordenadas: 
+            Latitud: N/A
+            Longitud: N/A
+        Zona Horaria: CET
+    
+    Información del Navegador:
+        User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+        Plataforma: macOS 15.0
+        Idioma: es-ES,es;q=0.9
+    
+    Página de Referencia: http://127.0.0.1:5000/
+
+Actividad:
+    Acción: minimize_structure
+
+Errores:
+    Error de Geolocalización: Error de geolocalización: [Errno 2] No such file or directory: b'path/to/GeoLite2-City.mmdb'
+
+# ------------------------------------
+
